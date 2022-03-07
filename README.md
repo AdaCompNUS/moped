@@ -30,14 +30,14 @@ They differ significantly in prediction accuracy, computational efficiency, data
 You will gain experiences in some of the following:
 
 + Choose representative analytical and data-driven models and conduct a comprehensive study on their performance using a richer set of evaluation metrics.
-+ Evaluate the motion prediction models for driving performance in a high-fidelity simulator.
++ Evaluate the  prediction models for driving performance in a high-fidelity driving simulator.
 + Evaluate the prediction models using both real-world datasets, e.g., ArgoVerse, and a real-time driving simulator, e,g, SUMMIT, to compare performance in “canned” and interactive settings.
 + Propose new ideas to improve the prediction and planning methods for autonomous driving. 
 
-The expected duration of the project is 3 months, which may be extended based on mutual agreement. You may participate either on-site or remotely.
+The expected duration of the project is **3 months**, which may be extended based on mutual agreement. You may participate either on-site or remotely.
 
 ## Contact Us
 
-You are invited to submit the application along with your CV by emailing to [moped](moped_adacomp@googlegroups.com). 
+You are invited to submit the application along with your CV by emailing to [moped](mailto:moped_adacomp@googlegroups.com). 
 Look forward to working with you on the exciting research!
 
