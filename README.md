@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/24559595/156963315-61e7603f-25a2-48d8-
 
 We have identified **motion prediction** as a key challenge of autonomous driving: predicting the future positions of surrounding traffic participants, so that the robot vehicle can decide on its own motion accordingly.
 
-## Background and Motivation of MOPED
+## Background
 There are two general approaches to motion prediction: 
 
 - Analytical prediction methods follow a set of handcrafted rules or optimize a handcrafted objective. 
