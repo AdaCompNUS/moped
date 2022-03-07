@@ -8,7 +8,7 @@ Are you interested in Autonomous Driving? Do you want to be the brain of the nex
 ## Overview
 
 To drive safely and smoothly in such traffic, the smart cars have to **reason about** and **predict** the motion of other nearby vehicles and pedestrians.
-The long-term goal os [Adacomp Laboratory](https://adacomp.comp.nus.edu.sg/) is to enable fluid human-robot interaction, collaboration, and ultimately co-existence. One important application is autonomous driving, especially, in heavy traffic. See the video below for an example of our recent work. 
+The long-term goal of [Adacomp Laboratory](https://adacomp.comp.nus.edu.sg/) is to enable fluid human-robot interaction, collaboration, and ultimately co-existence. One important application is autonomous driving, especially, in heavy traffic. See the video below for an example of our recent work. 
 
 https://user-images.githubusercontent.com/24559595/156963315-61e7603f-25a2-48d8-83d2-05c53883edfd.mp4
 
