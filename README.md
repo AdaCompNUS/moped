@@ -8,7 +8,7 @@
 
 ## Overview
 
-Our Adacomp Lab aims to build robots that think and act like humans. One important application is autonomous driving, especially driving in heavy traffic with heterogeous agents (illustrated in the video below).
+Our Adacomp Lab aims to build robots that think and act like humans. One important application is autonomous driving, especially driving in heavy traffic with heterogeneous agents (illustrated in the video below).
 
 https://user-images.githubusercontent.com/24559595/156963306-826d55e8-5051-44b7-a7d6-f06f54d2989e.mp4
 
