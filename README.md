@@ -3,28 +3,22 @@
 
 Are you interested in Autonomous Driving? Do you want to be the brain of the next generation of smart cars?
 
-![match3](https://user-images.githubusercontent.com/24559595/156965133-415211e4-de5c-43ea-8777-798de7b07079.png)
+<!-- ![match3](https://user-images.githubusercontent.com/24559595/156965133-415211e4-de5c-43ea-8777-798de7b07079.png) -->
 
 ## Overview
 
-The long-term goal os [Adacomp Laboratory](https://adacomp.comp.nus.edu.sg/) is to enable fluid human-robot interaction, collaboration, and ultimately co-existence. One important application is autonomous driving, especially, in heavy traffic. See the video below.
-
-https://user-images.githubusercontent.com/24559595/156963306-826d55e8-5051-44b7-a7d6-f06f54d2989e.mp4
-
-
 To drive safely and smoothly in such traffic, the smart cars have to **reason about** and **predict** the motion of other nearby vehicles and pedestrians.
+The long-term goal os [Adacomp Laboratory](https://adacomp.comp.nus.edu.sg/) is to enable fluid human-robot interaction, collaboration, and ultimately co-existence. One important application is autonomous driving, especially, in heavy traffic. See the video below for an example of our recent work. 
 
 https://user-images.githubusercontent.com/24559595/156963315-61e7603f-25a2-48d8-83d2-05c53883edfd.mp4
-
-
 
 We have identified **motion prediction** as a key challenge of autonomous driving: predicting the future positions of surrounding traffic participants, so that the robot vehicle can decide on its own motion accordingly.
 
 ## Background and Motivation of MOPED
 There are two general approaches to motion prediction: 
 
-- **Analytical** prediction methods follow a set of handcrafted rules or optimize a handcrafted objective. 
-- **Data-driven** methods learn prediction models from trajectory datasets. 
+- Analytical prediction methods follow a set of handcrafted rules or optimize a handcrafted objective. 
+- data-driven methods learn prediction models from trajectory datasets. 
  
 They differ significantly in prediction accuracy, computational efficiency, data efficiency for learning, …, and each has strengths and weaknesses. The lack of systematic evaluation and comparison hinders the progress of autonomous driving.  The two common evaluation metrics, average displacement error (ADE) and final displacement error (FDE), seem natural, but may not directly impact driving decisions.
 
