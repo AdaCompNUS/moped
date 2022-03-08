@@ -20,7 +20,7 @@ There are two general approaches to motion prediction:
 - Analytical prediction methods follow a set of handcrafted rules or optimize a handcrafted objective. 
 - data-driven methods learn prediction models from trajectory datasets. 
  
-They differ significantly in prediction accuracy, computational efficiency, data efficiency for learning, …, and each has strengths and weaknesses. The lack of systematic evaluation and comparison hinders the progress of autonomous driving.  The two common evaluation metrics, average displacement error (ADE) and final displacement error (FDE), seem natural, but may not directly impact driving decisions.
+They differ significantly in prediction accuracy, computational efficiency, data efficiency for learning, …, and each has strengths and weaknesses. The lack of systematic evaluation and comparison hinders the progress of autonomous driving.  The two common evaluation metrics, average displacement error (ADE) and final displacement error (FDE), seem natural, but may not directly impact driving decisions and performance.
 
 
 ## Project
@@ -31,13 +31,15 @@ You will gain experiences in some of the following:
 
 + Choose representative analytical and data-driven models and conduct a comprehensive study on their performance using a richer set of evaluation metrics.
 + Evaluate the  prediction models for driving performance in a high-fidelity driving simulator.
-+ Evaluate the prediction models using both real-world datasets, e.g., ArgoVerse, and a real-time driving simulator, e,g, SUMMIT, to compare performance in “canned” and interactive settings.
++ Evaluate the prediction models using both real-world datasets, e.g., [ArgoVerse](https://www.argoverse.org), and a real-time driving simulator, e,g, SUMMIT, to compare performance in “canned” and interactive settings.
 + Propose new ideas to improve the prediction and planning methods for autonomous driving. 
 
 The expected duration of the project is **3 months**, which may be extended based on mutual agreement. You may participate either on-site or remotely.
 
 ## Contact Us
 
-You are invited to submit the application along with your CV by emailing to [moped](mailto:moped_adacomp@googlegroups.com). 
+You are invited to submit the application along with your resume by emailing to [moped](mailto:moped_adacomp@googlegroups.com). We expect you to have
+- some basic knowledge in machine learning and prediction models
+- strong software engineering skills
 Look forward to working with you on the exciting research!
 
